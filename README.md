@@ -2,7 +2,7 @@
 
 # Assalamu alaikum, I'm Abdulfayz 👋
 
->A passionated learner who is currently Student of WIUT. Building Front part of pages with html, css(scss), JavaScript. Considering diving into .NET-backend development
+>A passionated learner who is currently Student of WIUT. Building Front part of pages with html, css(scss), JavaScript.
 <br/><br/><br/>
 
 <p align="end">
