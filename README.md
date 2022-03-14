@@ -22,7 +22,7 @@
   - 🏗  &nbsp;Developing frontend projects
 - 📖 &nbsp; Surfing more books.
 - 📝 &nbsp; Run my blog on [Telegram](https://t.me/khodimingiz_Fayz) 
-- 📫 &nbsp; Reach me at: abdulfayzabduvohidov01@gmail.com
+- 📫 &nbsp; Reach me at: fayzihere@gmail.com
 
 <br/>
 
